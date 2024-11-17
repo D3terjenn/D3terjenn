@@ -1,8 +1,5 @@
 ![Alt Text](https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/footer.webp)
 
-
-# Profil Saya
-
 ## GitHub Statistics
 - **Followers:** 3
 - **Stars:** 1
