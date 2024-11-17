@@ -1,9 +1,9 @@
 ![Alt Text](https://raw.githubusercontent.com/GovindSingh9447/GovindSingh9447/refs/heads/main/WEBP/footer.webp)
 
 ## GitHub Statistics
-![GitHub Followers](https://img.shields.io/github/followers/<D3terjenn>?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/<D3terjenn>?label=Stars&style=social)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<D3terjenn>&show_icons=true&hide_title=true&hide=prs,issues&theme=radical)
+![GitHub Followers](https://img.shields.io/github/followers/<D3terjenn_>?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/<D3terjenn_>?label=Stars&style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<D3terjenn_>&show_icons=true&hide_title=true&hide=prs,issues&theme=radical)
 
 
 ## Currently Studying
