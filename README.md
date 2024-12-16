@@ -12,4 +12,4 @@
 
 ![Email](https://img.shields.io/badge/Gmail-contactgemahost%40gmail.com-0e75b6?logo=gmail&logoColor=white&style=flat)
 
-
+📝Saya bekerja sebagai CEO di [Gema Host](https://discord.gemahost.my.id/)
