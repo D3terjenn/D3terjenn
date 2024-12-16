@@ -10,6 +10,6 @@
 
 ![Jumlah Penglihat](https://komarev.com/ghpvc/?username=D3terjenn&label=Profile%20views&color=0e75b6&style=flat)
 
-![Email](https://img.shields.io/badge/Gmail-contactgemahost%40gmail.com-red?logo=gmail&logoColor=white&style=flat)
+![Email](https://img.shields.io/badge/Gmail-contactgemahost%40gmail.com-red?logo=gmail&logoColor=0e75b6&style=flat)
 
 
