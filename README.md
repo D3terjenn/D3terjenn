@@ -5,7 +5,7 @@
 </div>
 </div>
 <div align="center">
-  <h3>Saya adalah, Developer Pemula, Developer Bot Discord, Developer Minecraft!</h3>
+  <h3>Saya adalah, Developer Pemula, Developer Bot Discord, Developer Minecraft.</h3>
 </div>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
