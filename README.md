@@ -7,4 +7,5 @@
 <div align="center">
   <h3>Saya adalah, Developer Pemula, Developer Bot Discord, Developer Minecraft.</h3>
 </div>
+
 ![Jumlah Penglihat](https://komarev.com/ghpvc/?username=D3terjenn&label=Profile%20views&color=0e75b6&style=flat)
