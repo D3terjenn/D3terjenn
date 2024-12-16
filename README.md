@@ -3,8 +3,9 @@
 <div align="center">
   <h1>Hi, Selamat datang di profile github saya!</h1>
 </div>
+</div>
 <div align="center">
-  <h2>Saya adalah, Developer Pemula, Developer Bot Discord, Developer Minecraft!</h2>
+  <h3>Saya adalah, Developer Pemula, Developer Bot Discord, Developer Minecraft!</h3>
 </div>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
