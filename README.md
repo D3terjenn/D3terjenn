@@ -14,4 +14,5 @@
 
 - 📝Saya bekerja sebagai CEO di [Gema Host](https://discord.gemahost.my.id/)
 - 📡Saya masih mempelajari **Node JS**, **Java Script**, **HTML/CSS**, **PHP**, **MySQL**, **MongoDB**, **MariaDB**
+- 💬 Jangan tanya ke saya, saya juga tidak tahu
 
